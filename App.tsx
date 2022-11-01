@@ -4,8 +4,8 @@ import './style.css';
 export default function App() {
   return (
     <div>
-      <h1>Hello StackBlitz!</h1>
-      <p>Start editing to see some magic happen :)</p>
+      <h1>A REACT APP</h1>
+      <p>This app shows the following functionalities. The react router, nested routes, 404 page , error boundary and cliend-side pagination using randomuser.me:)</p>
     </div>
   );
 }
